@@ -1,9 +1,0 @@
-D:\workspace\C# Assignments\isogram-csharp-problem-Hrishi246\Isogram\bin\Debug\netcoreapp2.1\Isogram.deps.json
-D:\workspace\C# Assignments\isogram-csharp-problem-Hrishi246\Isogram\bin\Debug\netcoreapp2.1\Isogram.dll
-D:\workspace\C# Assignments\isogram-csharp-problem-Hrishi246\Isogram\bin\Debug\netcoreapp2.1\Isogram.pdb
-D:\workspace\C# Assignments\isogram-csharp-problem-Hrishi246\Isogram\obj\Debug\netcoreapp2.1\Isogram.csproj.CoreCompileInputs.cache
-D:\workspace\C# Assignments\isogram-csharp-problem-Hrishi246\Isogram\obj\Debug\netcoreapp2.1\Isogram.AssemblyInfoInputs.cache
-D:\workspace\C# Assignments\isogram-csharp-problem-Hrishi246\Isogram\obj\Debug\netcoreapp2.1\Isogram.AssemblyInfo.cs
-D:\workspace\C# Assignments\isogram-csharp-problem-Hrishi246\Isogram\obj\Debug\netcoreapp2.1\Isogram.dll
-D:\workspace\C# Assignments\isogram-csharp-problem-Hrishi246\Isogram\obj\Debug\netcoreapp2.1\Isogram.pdb
-D:\workspace\C# Assignments\isogram-csharp-problem-Hrishi246\Isogram\obj\Debug\netcoreapp2.1\Isogram.csprojAssemblyReference.cache
